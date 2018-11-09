@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/y63737bx9ebbmqhj?svg=true)](https://ci.appveyor.com/project/mrlacey/uwpessentials)
 
-Download the extension from the [VS Marketplace](https://marketplace.visualstudio.com/vsgallery/?????????)
+Download the extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.UwpEssentials)
 or get the
 [nightly build](http://vsixgallery.com/extension/UwpEssentials.4a541df8-8d9e-41fc-8e30-06f67c81588c/)
 
