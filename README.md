@@ -1,6 +1,6 @@
 # UWP Essentials
 
-[![Build status](https://ci.appveyor.com/api/projects/status/????????svg=true)](https://ci.appveyor.com/project/mrlacey/?????)
+[![Build status](https://ci.appveyor.com/api/projects/status/y63737bx9ebbmqhj?svg=true)](https://ci.appveyor.com/project/mrlacey/uwpessentials)
 
 Download the extension from the [VS Marketplace](https://marketplace.visualstudio.com/vsgallery/?????????)
 or get the
