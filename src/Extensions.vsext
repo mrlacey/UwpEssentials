@@ -1,7 +1,7 @@
 {
   "id": "UWPEssentials",
   "name": "UWP Essentials",
-  "description": "A collection of essentail tools for UWP developers.",
+  "description": "A collection of essential tools for UWP developers.",
   "version": "1.0.0.0",
   "extensions": [
     {
