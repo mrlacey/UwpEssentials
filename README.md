@@ -3,6 +3,8 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/????????svg=true)](https://ci.appveyor.com/project/mrlacey/?????)
 
 Download the extension from the [VS Marketplace](https://marketplace.visualstudio.com/vsgallery/?????????)
+or get the
+[nightly build](http://vsixgallery.com/extension/UwpEssentials.4a541df8-8d9e-41fc-8e30-06f67c81588c/)
 
 ------------------------------------
 

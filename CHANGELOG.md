@@ -3,7 +3,7 @@
 - [ ] Rapid XAML Toolkit (once it hits v1.0)
 - [ ] more...?
 
-Features that have a checkmark are complete and available for download in the [nightly build](http://vsixgallery.com/extension/??????????????/).
+Features that have a checkmark are complete and available for download in the [nightly build](http://vsixgallery.com/extension/UwpEssentials.4a541df8-8d9e-41fc-8e30-06f67c81588c/).
 
 # Change log
 
