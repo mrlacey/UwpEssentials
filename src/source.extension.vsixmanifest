@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="UwpEssentials.4a541df8-8d9e-41fc-8e30-06f67c81588c" Version="1.1" Language="en-US" Publisher="Matt Lacey" />
+        <Identity Id="UwpEssentials.4a541df8-8d9e-41fc-8e30-06f67c81588c" Version="1.0" Language="en-US" Publisher="Matt Lacey" />
         <DisplayName>UWP Essentials</DisplayName>
         <Description xml:space="preserve">The easiest way to set up Visual Studio for the ultimate UWP development experience. Requires Visual Studio 2017 Update 8 or newer</Description>
         <MoreInfo>https://github.com/mrlacey/UwpEssentials</MoreInfo>
