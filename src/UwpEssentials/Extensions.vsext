@@ -1,0 +1,32 @@
+{
+  "id": "UWPEssentials",
+  "name": "UWP Essentials",
+  "description": "A collection of essentail tools for UWP developers.",
+  "version": "1.0.0.0",
+  "extensions": [
+    {
+      "vsixId": "WindowsTemplateStudio2017.ProRelease.60cee341-5e8e-4db5-a1c4-e3f618500d25",
+      "name": "Windows Template Studio"
+    },
+    {
+      "vsixId": "MultilingualAppToolkit.Microsoft.bc7f20d6-73ff-4f4d-8084-eb773575c8a4",
+      "name": "Multilingual App Toolkit"
+    },
+    {
+      "vsixId": "0c572937-0d4a-48cc-aa3f-875ffa9805ba",
+      "name": "XAML Styler"
+    },
+    {
+      "vsixId": "ConsoleAppUniversal.Microsoft.F5395862-4EFD-473D-9B7D-442CAF2EA7B2",
+      "name": "Console App Templates"
+    },
+    {
+      "vsixId": "Microsoft.CommandLineActivatedWindowsApp.A1EA4BF6-4DFF-43F4-AD11-C3A603C15186",
+      "name": "CommandLine Activated App Templates"
+    },
+    {
+      "vsixId": "MultiInstanceApp.microsoft.CE41FCA9-DC74-4056-9FCB-72A7CB7C3F18",
+      "name": "Multi-Instance App Templates"
+    }
+  ]
+}
