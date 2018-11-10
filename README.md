@@ -4,7 +4,7 @@
 
 Download the extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.UwpEssentials)
 or get the
-[nightly build](http://vsixgallery.com/extension/UwpEssentials.4a541df8-8d9e-41fc-8e30-06f67c81588c/)
+[CI build](http://vsixgallery.com/extension/UwpEssentials.4a541df8-8d9e-41fc-8e30-06f67c81588c/)
 
 ------------------------------------
 
