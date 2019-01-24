@@ -10,6 +10,10 @@ Features that have a checkmark are complete and available for download in the [n
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.1
+
+- [x] Add support for VS 2019
+
 ## 1.0
 
-- [ ] Initial release
+- [x] Initial release

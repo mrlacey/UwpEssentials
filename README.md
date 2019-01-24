@@ -14,6 +14,7 @@ The easiest way to set up Visual Studio for the ultimate UWP development experie
 See the [change log](CHANGELOG.md) for changes and road map.
 
 ## Extensions
+
 After installing the UWP Essentials and restarting Visual Studio, the following extensions will be installed:
 
 - [Windows Template Studio](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WindowsTemplateStudio)
@@ -25,7 +26,10 @@ After installing the UWP Essentials and restarting Visual Studio, the following 
 
 If you already have one or more of these extensions installed, UWP Essentials will not re-install them.
 
+Not all of the above extensions are available for VS 2019, yet.
+
 ## Suggest new extensions
+
 If you know of any good extensions that you think would benefit UWP developers, then log an issue with the suggestion on the [GitHub issue tracker](https://github.com/mrlacey/UwpEssentials/issues).
 
 ## Contribute
