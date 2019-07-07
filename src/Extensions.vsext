@@ -27,6 +27,10 @@
     {
       "vsixId": "MultiInstanceApp.microsoft.CE41FCA9-DC74-4056-9FCB-72A7CB7C3F18",
       "name": "Multi-Instance App Templates"
+    },
+    {
+      "vsixId": "MVVMBasicSnippets.79e3f0e5-9be3-476f-8f73-86fc92f6e751",
+      "name": "MVVMBasic Snippets"
     }
   ]
 }
