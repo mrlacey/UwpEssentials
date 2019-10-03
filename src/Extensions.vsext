@@ -2,7 +2,7 @@
   "id": "UWPEssentials",
   "name": "UWP Essentials",
   "description": "A collection of essential tools for UWP developers.",
-  "version": "1.0.0.0",
+  "version": "1.3.0.0",
   "extensions": [
     {
       "vsixId": "WindowsTemplateStudio2017.ProRelease.60cee341-5e8e-4db5-a1c4-e3f618500d25",
@@ -31,6 +31,10 @@
     {
       "vsixId": "MVVMBasicSnippets.79e3f0e5-9be3-476f-8f73-86fc92f6e751",
       "name": "MVVMBasic Snippets"
+    },
+    {
+      "vsixId": "RapidXamlToolkit.Local.25067190-b212-4873-aecf-84547ed9b962",
+      "name": "Rapid XAML (Preview)"
     }
   ]
 }

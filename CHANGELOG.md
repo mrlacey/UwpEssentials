@@ -1,6 +1,5 @@
 # Road map
 
-- [ ] Rapid XAML Toolkit (once it hits v1.0)
 - [ ] more...?
 
 Features that have a checkmark are complete and available for download in the [nightly build](http://vsixgallery.com/extension/UwpEssentials.4a541df8-8d9e-41fc-8e30-06f67c81588c/).
@@ -9,6 +8,10 @@ Features that have a checkmark are complete and available for download in the [n
 
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
+
+## 1.3
+
+- [x] Added Rapid XAML (Preview)
 
 ## 1.2
 
