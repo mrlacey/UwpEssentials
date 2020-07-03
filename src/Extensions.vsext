@@ -33,8 +33,8 @@
       "name": "MVVMBasic Snippets"
     },
     {
-      "vsixId": "RapidXamlToolkit.Local.25067190-b212-4873-aecf-84547ed9b962",
-      "name": "Rapid XAML (Preview)"
+      "vsixId": "RapidXamlToolkit.0dc8e86a-836b-47e5-aa3f-f5e71c15e37a",
+      "name": "Rapid XAML Toolkit"
     }
   ]
 }

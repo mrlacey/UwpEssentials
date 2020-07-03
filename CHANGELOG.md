@@ -9,6 +9,10 @@ Features that have a checkmark are complete and available for download in the [n
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.4
+
+- [x] Replaced "Rapid XAML (Preview)" with "Rapid XAML Toolkit" (not the preview version)
+
 ## 1.3
 
 - [x] Added Rapid XAML (Preview)
