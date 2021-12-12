@@ -9,6 +9,10 @@ Features that have a checkmark are complete and available for download in the [n
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.6
+
+- [x] Added "Template Studio for UWP"
+
 ## 1.5
 
 - [x] Added support for VS2022

@@ -9,7 +9,7 @@ or get the
 
 ------------------------------------
 
-The easiest way to set up Visual Studio for the ultimate UWP development experience. Requires Visual Studio 2017 Update 8 or newer.
+The easiest way to set up Visual Studio for the ultimate UWP development experience.
 
 See the [change log](CHANGELOG.md) for changes and road map.
 
@@ -25,18 +25,12 @@ After installing the UWP Essentials and restarting Visual Studio, the following 
 - [Multi-Instance App Project Templates](https://marketplace.visualstudio.com/items?itemName=AndrewWhitechapelMSFT.MultiInstanceApps)
 - [MVVMBasic Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MvvmBasicSnippets)
 - [Rapid XAML Toolkit](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit)
+- [Temlate Studio for UWP](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForUWP)
 
 If you already have one or more of these extensions installed, UWP Essentials will not re-install them.
 
-Not all of the above extensions are available for VS 2019, yet.
+**Note:** Not all of the above extensions are available for all versions of Visual Studio.
 
 ## Suggest new extensions
 
 If you know of any good extensions that you think would benefit UWP developers, then log an issue with the suggestion on the [GitHub issue tracker](https://github.com/mrlacey/UwpEssentials/issues).
-
-## Contribute
-Check out the [contribution guidelines](.github/CONTRIBUTING.md) if you want to contribute to this project.
-
-For cloning and building this project yourself, make sure to install the
-[Extensibility Tools](https://visualstudiogallery.msdn.microsoft.com/ab39a092-1343-46e2-b0f1-6a3f91155aa6)
-extension for Visual Studio which enables some features used by this project.
