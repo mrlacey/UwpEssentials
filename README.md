@@ -25,11 +25,11 @@ After installing the UWP Essentials and restarting Visual Studio, the following 
 - [Multi-Instance App Project Templates](https://marketplace.visualstudio.com/items?itemName=AndrewWhitechapelMSFT.MultiInstanceApps)
 - [MVVMBasic Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MvvmBasicSnippets)
 - [Rapid XAML Toolkit](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit)
-- [Temlate Studio for UWP](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForUWP)
+- [Template Studio for UWP](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForUWP)
 
 If you already have one or more of these extensions installed, UWP Essentials will not re-install them.
 
-**Note:** Not all of the above extensions are available for all versions of Visual Studio.
+**Note:** Not all extensions are available for all versions of Visual Studio.
 
 ## Suggest new extensions
 
